@@ -1,0 +1,4 @@
+C:\Users\Zivilyn\Source\Repos\TTOS0300-KL-ohjelmointi\Demo1\Demo1\obj\Debug\MainWindow.g.cs
+C:\Users\Zivilyn\Source\Repos\TTOS0300-KL-ohjelmointi\Demo1\Demo1\obj\Debug\App.g.cs
+C:\Users\Zivilyn\Source\Repos\TTOS0300-KL-ohjelmointi\Demo1\Demo1\obj\Debug\Demo1_MarkupCompile.cache
+C:\Users\Zivilyn\Source\Repos\TTOS0300-KL-ohjelmointi\Demo1\Demo1\obj\Debug\Demo1_MarkupCompile.lref
